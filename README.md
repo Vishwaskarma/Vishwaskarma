@@ -1,4 +1,4 @@
-<img src="https://github.com/Vishwaskarma/Vishwaskarma/main/assets/banner.jpg" alt="AgroTech Banner" width="100%"/>
+<img src="https://github.com/Vishwaskarma/Vishwaskarma/main/asset/banner.jpg" alt="AgroTech Banner" width="100%"/>
 
 <div align="center">
 
